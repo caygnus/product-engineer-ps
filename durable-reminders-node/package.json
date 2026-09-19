@@ -1,0 +1,11 @@
+{
+  "name": "durable-reminders-node",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "benchmark": "node benchmark.js"
+  },
+  "engines": { "node": ">=20" }
+}
